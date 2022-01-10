@@ -10,6 +10,8 @@ https://search.naver.com/search.naver?where=nexearch&query=%EB%93%9C%EB%9D%BC%EB
 International Rating in DramaList
 https://mydramalist.com/shows
 
+Dataset: https://www.reddit.com/r/datasets/comments/ioepvd/looking_for_datasets_related_to_korean_dramas_and/
+
 How-TO:
 
 https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/
