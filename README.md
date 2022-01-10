@@ -9,3 +9,7 @@ https://search.naver.com/search.naver?where=nexearch&query=%EB%93%9C%EB%9D%BC%EB
 
 International Rating in DramaList
 https://mydramalist.com/shows
+
+How-TO:
+
+https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/
