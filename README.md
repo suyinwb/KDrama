@@ -13,3 +13,4 @@ https://mydramalist.com/shows
 How-TO:
 
 https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/
+https://medium.com/analytics-vidhya/recommender-systems-in-10-minutes-2e50b430f98d
