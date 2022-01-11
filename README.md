@@ -1,6 +1,6 @@
 # KDrama
 
-Reference from: 
+Reference from:
 https://www.kaggle.com/chanoncharuchinda/sample-top-100-korean-dramas/notebook
 https://github.com/swati-gwc/DramaList/blob/main/WebScrapingMyDramaList.py
 https://medium.com/@apoorvareddy612/korean-drama-analysis-4da6146ffaab
@@ -26,3 +26,69 @@ How-TO:
 
 https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/
 https://medium.com/analytics-vidhya/recommender-systems-in-10-minutes-2e50b430f98d
+
+
+## Background
+
+## Overview of Project
+
+I love KDrama but not all of them. However, I do not have specific genres and would like to have a Recommender System to introduce me to "new" or older good KDramas.
+
+Another link is the 100 most popular: https://mydramalist.com/shows/top_korean_dramas
+
+### Purpose
+
+## Analysis And Challenges
+
+* Think of potential way to achieve Collaborative Filtering. URL/statistics have some information
+
+## Methodology: Analytics Paradigm
+
+#### 1. Decomposing the Ask
+
+
+#### 2. Identify the Datasource
+
+### 3. Define Strategy & Metrics
+**Resource:** Python 3, Flask, Pandas, Jupyter Notebook, Splinter, Beautiful Soup, PyMongo, MongoDB, HTML5Lib, LXML
+
+#### 4. Data Retrieval Plan
+
+* dramalist.com: this is a good site for getting information due to the high number of users and critics therefore making the dataset viable. Also it is the only English site with this traffic.
+
+#### 5. Assemble & Clean the Data
+
+#### 6. Analyse for Trends
+
+#### 7. Acknowledging Limitations
+
+1. Actually it is better to get information directly from the Korean search engine, Naver, however it is all in Korean and currently I do not have the knowledge on how to deal with NLP or non-English information
+
+2. The current list does not factor newly released dramas and therefore maybe a bit outdated.
+
+3. It is most likely that older dramas have more critics and therefore the ranking will be more normalised and/or higher
+
+4. New dramas might have fewer critics and therefore unreliable ranking
+
+5. Classification - User-based: Not sure where to get this data for classification
+
+6. Classification - Product / Item-based: Do not have enough users-based data
+
+7. How to make use of user reviews in each drama for NLP machine learning?
+
+#### 8. Making the Call:
+The "Proper" Conclusion is indicated below on [Summary](#summary)
+
+## Analysis
+
+>June Temperature Aggregates
+
+![June Temperature Aggregates](resources/junetempdesc.png)
+
+>June Temperature
+
+![June Temperature](resources/junetemp.png)
+
+## Summary
+
+## Appendix
