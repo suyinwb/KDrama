@@ -28,6 +28,10 @@ https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a
 https://medium.com/analytics-vidhya/recommender-systems-in-10-minutes-2e50b430f98d
 
 
+Read & Laugh:
+Start Up Review by an AI engineer https://towardsai.net/p/artificial-intelligence/an-ai-practitioners-guide-to-the-kdrama-start-up-56ab95c2afd8
+
+
 ## Background
 
 ## Overview of Project
