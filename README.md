@@ -22,6 +22,10 @@ https://haen.ai/l/dataset-of-korean-dramas-with-the-most-awards-won
 https://www.reddit.com/r/datasets/comments/ioepvd/looking_for_datasets_related_to_korean_dramas_and/
 https://dramaqa.snu.ac.kr/Dataset
 
+
+Tnms & Nielsen ratings
+http://www.koreandrama.org/voice-season-4/
+
 How-TO:
 
 https://www.analyticsvidhya.com/blog/2021/12/comprehensive-project-on-building-a-movie-recommender-website/
