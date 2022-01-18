@@ -60,6 +60,8 @@ While the API for mydramalist.com exists, currently no API keys are given out an
 
 Use webscraping method from: https://towardsdatascience.com/web-scraping-basics-82f8b5acd45c
 
+https://stackoverflow.com/questions/58419896/writing-scraped-data-into-json-using-python
+
 Inspect the website HTML that you want to crawl
 Access URL of the website using code and download all the HTML contents on the page
 Format the downloaded content into a readable format
