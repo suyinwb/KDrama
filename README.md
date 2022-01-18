@@ -56,6 +56,15 @@ Another link is the 100 most popular: https://mydramalist.com/shows/top_korean_d
 
 
 #### 2. Identify the Datasource
+While the API for mydramalist.com exists, currently no API keys are given out anymore.
+
+Use webscraping method from: https://towardsdatascience.com/web-scraping-basics-82f8b5acd45c
+
+Inspect the website HTML that you want to crawl
+Access URL of the website using code and download all the HTML contents on the page
+Format the downloaded content into a readable format
+Extract out useful information and save it into a structured format
+For information displayed on multiple pages of the website, you may need to repeat steps 2–4 to have the complete information.
 
 ### 3. Define Strategy & Metrics
 **Resource:** Python 3, Flask, Pandas, Jupyter Notebook, Splinter, Beautiful Soup, PyMongo, MongoDB, HTML5Lib, LXML
