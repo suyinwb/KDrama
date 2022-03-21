@@ -51,6 +51,7 @@ Another link is the 100 most popular: https://mydramalist.com/shows/top_korean_d
 * Think of potential way to achieve Collaborative Filtering. URL/statistics have some information
 
 ## Methodology: Analytics Paradigm
+https://cloudy.achakladar.com/a-movie-recommender-engine-using-k-means-and-collaborative-filtering-and-deployed-to-kubernetes-ckj7mj1280292w7s1bzxw4uiv
 
 #### 1. Decomposing the Ask
 
